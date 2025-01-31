@@ -1,4 +1,4 @@
-# NaND-REX.gm9
+# NAND-REX.gm9
 NAND Backup and Restore Method on Nintendo 3DS using Godmode9.
 - Revision 2025
 - The script allows you to make a copy of the current NAND and restore it in the future.
@@ -8,7 +8,7 @@ NAND Backup and Restore Method on Nintendo 3DS using Godmode9.
 
 _____________________
 
-# NaND-REX.gm9 
+# NAND-REX.gm9 
 Método de Respaldo y Restauración de NAND en Nintendo 3DS mediante Godmode9. 
 - Revisión 2025
 - El script permite realizar una copia de la Nand actual y Restaurarla a futuro.
